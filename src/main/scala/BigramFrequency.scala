@@ -1,5 +1,3 @@
-package com.joefkelley.disease
-
 import org.apache.spark.SparkContext
 import org.apache.spark.SparkConf
 import scala.annotation.tailrec
